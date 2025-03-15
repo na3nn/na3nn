@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**na3nn/na3nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const aboutMe = {
+   pronouns: "he/him",
+   code: [PHP, Javascript, HTML, CSS, SQL],
+   technologies: {
+      frontEnd: {
+         js: ["jQuery","Angular"],
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         PHP: ["Laravel"],
+         Others: ["Docker"]
+      },
+      databases: ["MySQL", "Oracle", "SQLite"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["I continue training and open for job opportunities"]
+};
